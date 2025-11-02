@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc:*)",
+      "Bash(convert:*)",
+      "Bash(identify:*)",
+      "Bash(pdfinfo:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

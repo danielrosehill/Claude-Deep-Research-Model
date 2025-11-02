@@ -3,6 +3,7 @@
 [![Claude Code](https://img.shields.io/badge/Claude-Code-8A2BE2?logo=anthropic&logoColor=white)](https://claude.ai/claude-code)
 [![Claude Code Projects](https://img.shields.io/badge/Claude_Code-Projects_Index-blue?logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
 [![GitHub Master Index](https://img.shields.io/badge/GitHub-Master_Index-green?logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+[![Concept Diagrams PDF](https://img.shields.io/badge/📄_Concept_Diagrams-PDF-red?logo=adobeacrobatreader)](docs/pdf/deep-research-pattern.pdf)
 
 
 
