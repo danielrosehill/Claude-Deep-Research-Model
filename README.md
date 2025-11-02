@@ -25,6 +25,8 @@ The core model components are located in the `model-base/` directory:
 
 ## The Model
 
+[![Concept Diagrams PDF](https://img.shields.io/badge/📄_Concept_Diagrams-PDF-red?logo=adobeacrobatreader)](docs/pdf/deep-research-pattern.pdf)
+
 Diagrams: Nano Banana from my notes (minor pseudotext)
 
 ![Diagram 1](scribbles/cleaned/1.png)
